@@ -41,6 +41,25 @@ I build desktop applications and local-first tools with strong privacy boundarie
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" />
 </p>
 
+### Featured work
+
+- Butler Key - security-focused desktop tooling built around local control and low-friction workflows.
+- Nodo Blanco - operational automation and structured task flows.
+- JUSTA - applied software with a clear systems boundary and maintainable UI.
+- LAIKA - focused product work with a privacy-first mindset.
+
+### Architecture map
+
+```mermaid
+graph TD
+  UI["Desktop UI"] --> Core["Core domain"]
+  Core --> Storage["SQLite / local state"]
+  Core --> Security["Security & permissions"]
+  Core --> Automation["Automation / workflows"]
+  Core --> AI["AI-assisted features"]
+  Storage --> Sync["Exports / sync / backups"]
+```
+
 ### Current work
 
 - Desktop application architecture

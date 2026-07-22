@@ -1,3 +1,5 @@
+![Carlos Luna banner](https://avatars.githubusercontent.com/u/2383227?s=1024&v=4)
+
 <div align="center">
 
 # Carlos Luna
@@ -5,12 +7,6 @@
 Building secure, useful software.
 
 Cybersecurity · AI · Tauri · Digital Health · Accessibility
-
-<p>
-  <img src="https://img.shields.io/badge/Argentina-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0B0F19" alt="Argentina" />
-  <img src="https://img.shields.io/badge/Local--first-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0B0F19" alt="Local-first" />
-  <img src="https://img.shields.io/badge/Security-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0B0F19" alt="Security" />
-</p>
 
 </div>
 

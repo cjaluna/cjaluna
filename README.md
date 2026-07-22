@@ -67,11 +67,12 @@ graph TD
   Storage --> Sync["Exports / sync / backups"]
 ```
 
-### Live stats
+### Focus
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjaluna&theme=github_dark" alt="GitHub stats" />
-</p>
+- Security boundaries
+- Local-first UX
+- Reproducible builds
+- Small durable systems
 
 ### Current work
 

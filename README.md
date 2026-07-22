@@ -1,16 +1,34 @@
+<div align="center">
+
 # Carlos Luna
 
 Building secure, useful software.
 
-Cybersecurity | AI | Tauri | Digital Health | Accessibility
+Cybersecurity · AI · Tauri · Digital Health · Accessibility
 
-Argentina
+<p>
+  <img src="https://img.shields.io/badge/Argentina-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0B0F19" alt="Argentina" />
+  <img src="https://img.shields.io/badge/Local--first-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0B0F19" alt="Local-first" />
+  <img src="https://img.shields.io/badge/Security-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0B0F19" alt="Security" />
+</p>
+
+</div>
 
 ---
 
-Hi, I'm Carlos. I build desktop applications and local-first tools with a focus on privacy, accessibility, and long-term maintainability.
+### About
 
-## Focus
+I build desktop applications and local-first tools with a focus on privacy, accessibility, and long-term maintainability.
+
+### Quick view
+
+| Field | Details |
+| --- | --- |
+| Based in | Argentina |
+| Focus | Desktop apps, cybersecurity, AI, digital health |
+| Approach | Privacy-first, accessible, long-term maintainability |
+
+### Current focus
 
 - Desktop applications
 - Security tools
@@ -18,19 +36,11 @@ Hi, I'm Carlos. I build desktop applications and local-first tools with a focus 
 - Digital health
 - Local-first architecture
 
-## Stack
+### Stack
 
-- Rust
-- Tauri
-- TypeScript
-- React
-- Python
-- FastAPI
-- SQLite
-- PostgreSQL
-- GitHub Actions
+`Rust` `Tauri` `TypeScript` `React` `Python` `FastAPI` `SQLite` `PostgreSQL` `GitHub Actions`
 
-## Selected work
+### Selected work
 
 - Butler Key
 - Nodo Blanco
@@ -40,11 +50,11 @@ Hi, I'm Carlos. I build desktop applications and local-first tools with a focus 
 - Butler Learning Pipeline
 - LabSystem Pro
 
-## Philosophy
+### Philosophy
 
 > Technology should reduce complexity, not create it.
 
-## Outside coding
+### Outside coding
 
 - Coffee
 - Continuous learning

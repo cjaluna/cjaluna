@@ -8,6 +8,8 @@ Building secure, useful software.
 
 Cybersecurity · AI · Tauri · Digital Health · Accessibility
 
+❤️ Technology with empathy, code with purpose.
+
 </div>
 
 ---
@@ -27,32 +29,13 @@ I build desktop applications and local-first tools with a focus on privacy, acce
 ### Current focus
 
 - Desktop applications
-- Security tools
-- AI systems
-- Digital health
 - Local-first architecture
-
-### Stack
-
-`Rust` `Tauri` `TypeScript` `React` `Python` `FastAPI` `SQLite` `PostgreSQL` `GitHub Actions`
-
-### Selected work
-
-- Butler Key
-- Nodo Blanco
-- JUSTA
-- LAIKA
-- Butler AI
-- Butler Learning Pipeline
-- LabSystem Pro
-
-### Philosophy
-
-> Technology should reduce complexity, not create it.
+- Security and privacy
+- Clear UX
 
 ### Outside coding
 
 - Coffee
-- Continuous learning
-- Animal welfare
-- Argentina
+- Learning
+- Animals
+- Open knowledge

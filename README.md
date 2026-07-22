@@ -48,6 +48,13 @@ I build desktop applications and local-first tools with strong privacy boundarie
 - JUSTA - applied software with a clear systems boundary and maintainable UI.
 - LAIKA - focused product work with a privacy-first mindset.
 
+### Now building
+
+- Local-first desktop experiences with explicit permissions
+- Repeatable release pipelines and export paths
+- Secure UX patterns for multi-session tools
+- AI-assisted features that stay bounded and auditable
+
 ### Architecture map
 
 ```mermaid
@@ -59,6 +66,13 @@ graph TD
   Core --> AI["AI-assisted features"]
   Storage --> Sync["Exports / sync / backups"]
 ```
+
+### Live stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjaluna&show_icons=true&hide_border=true&theme=tokyonight&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=00000000" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=cjaluna&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+</p>
 
 ### Current work
 

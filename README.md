@@ -8,7 +8,7 @@ Argentina
 
 ---
 
-Hi, Im Carlos. I build desktop applications and local-first tools with a focus on privacy, accessibility, and long-term maintainability.
+Hi, I'm Carlos. I build desktop applications and local-first tools with a focus on privacy, accessibility, and long-term maintainability.
 
 ## Focus
 

@@ -4,35 +4,37 @@
 
 # Carlos Luna
 
-Local-first systems. Secure by default. Built to last.
+Code. Solve. Impact.
 
 Cybersecurity · AI · Tauri · Rust · TypeScript · SQLite
 
-`lab note: technology with empathy, code with purpose.`
+Developer · Problem solver · Builder
+
+`secure systems, local-first UX, measurable impact.`
 
 </div>
 
 ---
 
-### Lab profile
+### Systems profile
 
-I build desktop applications and local-first tools with an emphasis on privacy, observability, accessibility, and maintainable architecture.
+I build desktop applications and local-first tools with strong privacy boundaries, observable behavior, and maintainable architecture.
 
-### Signals
+### Core signals
 
 | Signal | Value |
 | --- | --- |
 | Base | Argentina |
 | Domain | Desktop apps, cybersecurity, AI, digital health |
 | Stack | Rust, Tauri, React, TypeScript, SQLite |
-| Principle | Privacy-first, testable, long-term maintainability |
+| Principle | Privacy-first, testable, reproducible |
 
 ### Current work
 
 - Desktop application architecture
 - Local-first workflows
 - Secure UX and permission boundaries
-- Clear documentation and reproducible builds
+- Reproducible builds and test coverage
 
 ### Outside the lab
 

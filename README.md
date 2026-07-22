@@ -32,13 +32,13 @@ I build desktop applications and local-first tools with strong privacy boundarie
 ### Tooling & platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Tauri-1F2937?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
 ### Featured work
@@ -70,8 +70,8 @@ graph TD
 ### Live stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjaluna&show_icons=true&hide_border=true&theme=tokyonight&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=00000000" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=cjaluna&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cjaluna&show_icons=true&hide_border=true&theme=transparent&title_color=9CA3AF&text_color=9CA3AF&icon_color=9CA3AF&bg_color=00000000" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjaluna&layout=compact&hide_border=true&theme=transparent&title_color=9CA3AF&text_color=9CA3AF&bg_color=00000000" alt="Top languages" />
 </p>
 
 ### Current work

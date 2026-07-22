@@ -1,4 +1,4 @@
-![Carlos Luna banner](https://avatars.githubusercontent.com/u/2383227?s=1024&v=4)
+![Carlos Luna banner](./banner_cjaluna.png)
 
 <div align="center">
 

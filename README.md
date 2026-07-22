@@ -1,4 +1,4 @@
-![Carlos Luna banner](./banner_cjaluna.png)
+![Carlos Luna banner](./logo_banner_ultra_tech.png)
 
 <div align="center">
 

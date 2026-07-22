@@ -1,22 +1,36 @@
 # Carlos Luna
 
-Building useful software, one repo at a time.
+Building secure, useful software.
 
-Cybersecurity | AI | Tauri | Digital Health | Accessibility | Open Knowledge
+Cybersecurity | AI | Tauri | Digital Health | Accessibility
 
 Argentina
 
 ---
 
-Hi, Im Carlos.
+Hi, Im Carlos. I build desktop applications and local-first tools with a focus on privacy, accessibility, and long-term maintainability.
 
-Im currently learning, experimenting, and shipping small projects while expanding my knowledge in desktop applications, AI, and cybersecurity.
+## Focus
 
-I care about privacy, accessibility, long-term maintainability, and software that actually helps people.
+- Desktop applications
+- Security tools
+- AI systems
+- Digital health
+- Local-first architecture
 
----
+## Stack
 
-## What Im building
+- Rust
+- Tauri
+- TypeScript
+- React
+- Python
+- FastAPI
+- SQLite
+- PostgreSQL
+- GitHub Actions
+
+## Selected work
 
 - Butler Key
 - Nodo Blanco
@@ -26,39 +40,13 @@ I care about privacy, accessibility, long-term maintainability, and software tha
 - Butler Learning Pipeline
 - LabSystem Pro
 
----
-
-## Stack
-
-- Rust
-- Tauri
-- TypeScript
-- React
-- FastAPI
-- Python
-- PostgreSQL
-- SQLite
-- Docker
-- GitHub Actions
-
----
-
 ## Philosophy
 
 > Technology should reduce complexity, not create it.
-
----
 
 ## Outside coding
 
 - Coffee
 - Continuous learning
 - Animal welfare
-- Self-sustainable technology
 - Argentina
-
----
-
-## Profile note
-
-Every repository is part of my learning journey.

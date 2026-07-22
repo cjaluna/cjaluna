@@ -71,7 +71,6 @@ graph TD
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjaluna&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjaluna&theme=github_dark" alt="Top languages" />
 </p>
 
 ### Current work

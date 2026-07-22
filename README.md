@@ -37,7 +37,7 @@ I build desktop applications and local-first tools with strong privacy boundarie
   <img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
@@ -70,8 +70,8 @@ graph TD
 ### Live stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjaluna&show_icons=true&hide_border=true&theme=transparent&title_color=9CA3AF&text_color=9CA3AF&icon_color=9CA3AF&bg_color=00000000" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjaluna&layout=compact&hide_border=true&theme=transparent&title_color=9CA3AF&text_color=9CA3AF&bg_color=00000000" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjaluna&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjaluna&theme=github_dark" alt="Top languages" />
 </p>
 
 ### Current work

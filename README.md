@@ -1,16 +1,64 @@
-## Hi there 👋
+# Carlos Luna
 
-<!--
-**cjaluna/cjaluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building useful software, one repo at a time.
 
-Here are some ideas to get you started:
+Cybersecurity | AI | Tauri | Digital Health | Accessibility | Open Knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Argentina
+
+---
+
+Hi, Im Carlos.
+
+Im currently learning, experimenting, and shipping small projects while expanding my knowledge in desktop applications, AI, and cybersecurity.
+
+I care about privacy, accessibility, long-term maintainability, and software that actually helps people.
+
+---
+
+## What Im building
+
+- Butler Key
+- Nodo Blanco
+- JUSTA
+- LAIKA
+- Butler AI
+- Butler Learning Pipeline
+- LabSystem Pro
+
+---
+
+## Stack
+
+- Rust
+- Tauri
+- TypeScript
+- React
+- FastAPI
+- Python
+- PostgreSQL
+- SQLite
+- Docker
+- GitHub Actions
+
+---
+
+## Philosophy
+
+> Technology should reduce complexity, not create it.
+
+---
+
+## Outside coding
+
+- Coffee
+- Continuous learning
+- Animal welfare
+- Self-sustainable technology
+- Argentina
+
+---
+
+## Profile note
+
+Every repository is part of my learning journey.
